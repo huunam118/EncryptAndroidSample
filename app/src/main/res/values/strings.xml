@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Credential Android</string>
+    <string name="sample_text">This is the sample of Encrypt and Decrypt your password !</string>
+    <string name="encrypted_text">Encrypted Text:</string>
+    <string name="decrypted_text">Decrypted Text</string>
+    <string name="process">Start</string>
+    <string name="input_your_text">Input your text here</string>
+</resources>
